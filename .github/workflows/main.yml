@@ -8,7 +8,7 @@ jobs:
       name: Deploy App
       defaults:
         run:
-          working-directory: ./src/Evelyn
+          working-directory: ./src
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v2
