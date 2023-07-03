@@ -6,6 +6,9 @@ on:
 jobs:
   deploy:
     name: Deploy app
+    defaults:
+      run:
+        working-directory: ./src
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
