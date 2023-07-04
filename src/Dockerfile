@@ -12,6 +12,6 @@ RUN dotnet publish -c Release -o out
 FROM mcr.microsoft.com/dotnet/aspnet:7.0
 WORKDIR /App
 COPY --from=build-env /App/out .
-ENTRYPOINT ["dotnet", "Evelyn.Server.dll"]
-EXPOSE 80
+ENTRYPOINT ["dotnet", "Evelyn.Server.dll", "--urls", "http://0.0.0.0:8080"]
+EXPOSE 8080
 EXPOSE 443
