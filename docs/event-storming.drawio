@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-07-10T21:05:30.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CEJOFba_HEPF3s7ifclm" version="21.6.1" type="device">
+  <diagram name="Pagina-1" id="15uKS6zx-PHdelZn3zuh">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-1" value="Account created" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-2" value="Account updated" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-3" value="Account removed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-4" value="Template Exercise Created" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="204" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-5" value="Template Exercise Updated" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="204" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-6" value="Template Exercise Removed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="204" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-7" value="Template Set Created" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-8" value="Template Set Updated" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-9" value="Template Set&amp;nbsp; Removed&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-10" value="Template Schedule Created" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="504" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-11" value="Template Schedule Updated&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="504" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jw62LySnCpzh1Fv1U0gl-12" value="Template Schedule Removed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="504" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
